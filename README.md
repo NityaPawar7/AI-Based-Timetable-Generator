@@ -207,14 +207,5 @@ The generated timetable includes:
 - room_capacity
 - room_utilization_percent
 
-## Screenshot Instructions
 
-For a college report or presentation:
-
-1. Run `streamlit run app.py`.
-2. Take a screenshot of the Home page with dataset metrics.
-3. Take a screenshot of the Add/View Data page showing course, room, and slot tables.
-4. Take a screenshot of the Conflict Graph page.
-5. Generate a timetable and take a screenshot of the Results & Download page.
-6. Add one failure-case screenshot by uploading the capacity issue CSV files from `sample_data`.
 
