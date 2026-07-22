@@ -1,0 +1,5 @@
+course_id,course_name,student_groups,strength
+C1,Mathematics,AIML-A,35
+C2,Physics,AIML-B,30
+C3,Programming,AIML-A; AIML-B,45
+C4,English,AIML-C,25

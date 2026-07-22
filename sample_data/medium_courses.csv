@@ -1,0 +1,9 @@
+course_id,course_name,student_groups,strength
+CS201,Data Structures,AIML-A; CSE-A,64
+MA201,Discrete Mathematics,AIML-A; AIML-B,78
+AI201,Artificial Intelligence,AIML-A,48
+ML201,Machine Learning,AIML-B; CSE-A,72
+DB201,Database Systems,CSE-A,45
+OS201,Operating Systems,AIML-B,50
+SE201,Software Engineering,CSE-B; AIML-B,60
+CN201,Computer Networks,CSE-B; CSE-A,65
